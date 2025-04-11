@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\workspace\IB\智慧公交系统\智慧公交系统\validation.h(22,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\workspace\IB\智慧公交系统\智慧公交系统\validation.h(55,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\workspace\IB\智慧公交系统\智慧公交系统\validation.h(70,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\workspace\IB\智慧公交系统\智慧公交系统\main.cpp(86,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  智慧公交系统.vcxproj -> D:\workspace\IB\智慧公交系统\x64\Debug\智慧公交系统.exe
